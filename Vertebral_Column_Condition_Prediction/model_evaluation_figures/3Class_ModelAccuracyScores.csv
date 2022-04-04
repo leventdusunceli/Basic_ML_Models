@@ -1,0 +1,8 @@
+3 Class Model Name,Accuracy Score
+Logistic Regression,0.75
+K-Nearest Neighbor,0.63
+Support Vector Machine (linear),0.77
+Support Vector Machine (non-linear),0.71
+Naive Bayes,0.78
+Decision Tree,0.88
+Random Forest,0.79
